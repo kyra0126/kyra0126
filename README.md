@@ -195,8 +195,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/AWS-SAA-C03">
-        <img src="https://github.com/user-attachments/assets/c866eab5-d57a-405d-bc52-319744151885" width="100%"/>
+      <a href="https://github.com/kyra0126/AL-BUCKS">
+        <img width="471" height="473" alt="AIKU_4" src="https://github.com/user-attachments/assets/99443837-cf42-416f-a056-7779992f133c" width="100%"/>
       </a>
     </td>
   </tr>
@@ -243,7 +243,7 @@
       <a href="https://github.com/kyra0126/Portfolio">📂 Repo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/AWS-SAA-C03">📂 Repo</a>
+      <a href="https://github.com/kyra0126/AL-BUCKS">📂 Repo</a>
     </td>
   </tr>
 </table>

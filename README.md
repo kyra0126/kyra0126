@@ -14,7 +14,6 @@
 ---
 
 ## 📂 Projects
-## 🚀 Projects
 
 <table width="100%">
 
@@ -28,7 +27,7 @@
   <!-- Row 2: Project Images -->
   <tr>
     <td align="center">
-      <a href="https://github.com/username/aiku">
+      <a href="https://github.com/AiKU-Dev">
         <img src="https://github.com/user-attachments/assets/ad5c3d55-bd77-4442-b652-dcd8ed44c286" width="100%"/>
       </a>
     </td>
@@ -84,7 +83,7 @@
   <!-- Row 4: Repo Links -->
   <tr>
     <td align="center">
-      <a href="https://github.com/username/aiku">📂 Ver.1</a> • <a href="https://github.com/username/aiku">📂 Ver.2</a>
+      <a href="https://github.com/KU-AiKU">📂 Ver.1</a> • <a href="https://github.com/AiKU-Dev/Android">📂 Ver.2</a>
     </td>
     <td align="center">
       <a href="https://github.com/username/unity-gesture-board">📂 Repo</a> • <a href="#">🎥 Video</a>

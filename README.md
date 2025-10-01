@@ -33,7 +33,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/username/unity-gesture-board">
-        <img src="https://github.com/user-attachments/assets/d9989b43-930d-4051-9070-6aea1e7ae091" width="100%"/>
+        <img src="https://github.com/user-attachments/assets/8516a2fa-7ecf-4e1c-9140-738f7ab5dac5" width="100%" />
       </a>
     </td>
     <td align="center">
@@ -190,7 +190,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/kyra0126/HarryPotter">
-        <img width="1024" height="1024" alt="Gemini_Generated_Image_v1o93lv1o93lv1o9" src="https://github.com/user-attachments/assets/4764fe80-0477-4104-acf1-7572b640d748" width="100%"/>
+        <img src="https://github.com/user-attachments/assets/dbf8175b-242e-4012-a1eb-92c40b40ccb9" width="100%"/>ㅇㅇ
       </a>
     </td>
     <td align="center">

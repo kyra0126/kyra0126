@@ -251,6 +251,54 @@
 
 ---
 
+## 🗓️ Studying
+
+Built a personal knowledge base by writing study notes in Markdown and hosting them with GitHub Pages, enabling version control and accessible online documentation
+
+<table width="100%">
+  <!-- Row 1: Project Titles -->
+  <tr>
+    <td align="center" width="33%"><b>Introduction to Mobility</b></td>
+    <td align="center" width="33%"><b>Industrial Robots Programming</b></td>
+    <td align="center" width="33%"><b>AWS-SAA-C03</b></td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <sub>Provides an overview of autonomous vehicle engineering practices through hands-on projects with real datasets and an open-source simulator. Includes guest lectures from industry experts (e.g., Ford, GM) and introduces terminology, design considerations, and smart mobility infrastructure.<br/><br/>
+      <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
+        <img src="https://img.shields.io/badge/CARLA-FF6F00?style=flat&logo=carla&logoColor=white">
+      </div>
+    </td>
+    <td align="center">
+      <sub>Covers basic robotic theory (kinematics, links, joints, coordinate systems, and vision). Students learn to program and maintain FANUC robots, set up vision systems, recover from errors, and follow safety standards. Labs use FANUC industrial and collaborative robots, with simulation through Visual Components and ROBOGUIDE.<br/><br/>
+      <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
+       <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white">
+      </div>
+    </td>
+    <td align="center">
+      <sub>Learning AWS cloud fundamentals and core services.<br/><br/>
+      <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+      </div>
+    </td>
+  </tr>
+  
+<!-- Row 4: Repo Links -->
+  <tr>
+    <td align="center">
+      <a href="https://www.notion.so/26af6e2c65fc80bc876dc2fe5bc21701?v=26af6e2c65fc804daedb000c8e8ec5a9&source=copy_link">📂 Notion</a>
+    </td>
+    <td align="center">
+      <a href="https://www.notion.so/26bf6e2c65fc803f8bdecca61e133a4c?v=26bf6e2c65fc8079b3f7000cce8abf6b&source=copy_link">📂 Notion</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kyra0126/AWS-SAA-C03">📂 Repo</a>
+    </td>
+  </tr>
+</table>
+
+
 ## 🛠 Technical Skills
 
 **Programming Languages**  

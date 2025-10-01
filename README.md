@@ -224,10 +224,12 @@
       </div>
     </td>
     <td align="center">
-      <b>Software Developer</b><br/><br/>
-      <sub><i>Java-based course registration program, improved over three iterations based on client feedback.</i></sub><br/><br/>
+      <b>Team Leader & Android Developer & UX/UI Designer</b><br/><br/>
+      <sub><i>App for automated wage calculation with tax, auto check-in/out, and work history proof.</i></sub><br/><br/>
       <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
-       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white">
+       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
       </div>
     </td>
   </tr>

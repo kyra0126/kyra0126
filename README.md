@@ -7,13 +7,14 @@
 
 <p align="center">
   <a href="#projects">Projects</a> • 
+  <a href="#studying">Studying</a> • 
   <a href="#skills">Skills</a> • 
   <a href="#highlights">Highlights</a>
 </p>
 
 ---
 
-## 📂 Projects
+## 📂 Projects <a id="projects"></a>
 
 <table width="100%">
   <!-- Row 1: Project Titles -->
@@ -50,6 +51,9 @@
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white">
         <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Moshi-00BFAE?style=flat&logo=json&logoColor=white">
+        <img src="https://img.shields.io/badge/MVVM-FF9800?style=flat&logo=architecture&logoColor=white">
+        <img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat&logo=google&logoColor=white">
       </div>
     </td>
     <td align="center">
@@ -108,45 +112,45 @@
   <tr>
     <td align="center">
       <a href="https://github.com/AiKU-Dev">
-        <img src="https://github.com/user-attachments/assets/ad5c3d55-bd77-4442-b652-dcd8ed44c286" width="100%"/>
+        <img src="https://github.com/user-attachments/assets/a9e40bd6-c424-415d-be51-f188e7add0fc" width="100%"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/unity-gesture-board">
-        <img src="https://github.com/user-attachments/assets/d9989b43-930d-4051-9070-6aea1e7ae091" width="100%"/>
+      <a href="https://github.com/Debri-Development-Team/Android">
+        <img src="https://github.com/user-attachments/assets/3fc872e6-71e4-4d2d-8bb7-50d5a34ee953" width="100%"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/AWS-SAA-C03">
-        <img src="https://github.com/user-attachments/assets/c866eab5-d57a-405d-bc52-319744151885" width="100%"/>
+      <a href="https://github.com/KU-Malang">
+        <img width="2480" height="2480" alt="앱아이콘 1" src="https://github.com/user-attachments/assets/32a2e87f-b906-4674-8c79-37e3b5a7e859" width="100%"/>
       </a>
     </td>
   </tr>
   
   <tr>
     <td align="center">
-      <b>Android Leader & Developer · UI/UX Design Support</b><br/><br/>
-      <sub><i>Led development and design of AiKU, a scheduling app with real-time GPS tracking and mini-game–based lateness prevention.</i></sub><br/><br/>
+      <sub><i>Used AutoCAD to design from 2D drawings to 3D building models</i></sub><br/><br/>
       <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white">
+        <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autocad&logoColor=white">
+      </div>
+    </td>
+    <td align="center">
+      <b>Frontend Leader</b><br/><br/>
+      <sub><i>App for programming learners, offering schedule, lecture info, and curriculum resources.</i></sub><br/><br/>
+      <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
+       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat&logo=android&logoColor=white">
+       <img src="https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white"> 
       </div>
     </td>
     <td align="center">
-      <b>Software Developer</b><br/><br/>
-      <sub><i>Real-time bus license plate recognition and audio alerts, enabling independent use by visually impaired riders.</i></sub><br/><br/>
-      <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
-       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
-       <img src="https://img.shields.io/badge/Tesseract-4285F4?style=flat&logo=tesseract&logoColor=white">  
-      </div>
-    </td>
-    <td align="center">
-      <b>Software Developer</b><br/><br/>
-      <sub><i>Java-based course registration program, improved over three iterations based on client feedback.</i></sub><br/><br/>
+      <b>Android Leader & UX/UI Designer</b><br/><br/>
+      <sub><i>A socket-driven speed-quiz game enabling many users to play simultaneously without perceptible delay.</i></sub><br/><br/>
       <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Socket-010101?style=flat&logo=socketdotio&logoColor=white">
+<img src="https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
       </div>
     </td>
   </tr>
@@ -157,10 +161,10 @@
       <a href="https://github.com/KU-AiKU">📂 Ver.1</a> • <a href="https://github.com/AiKU-Dev/Android">📂 Ver.2</a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/unity-gesture-board">📂 Repo</a> • <a href="#">🎥 Video</a>
+      <a href="https://canary-lunch-ad0.notion.site/Team-Debri-8e136b78ee4f40bfb6d3a35ebab42f49">📂 Launching Page</a> • <a href="https://github.com/Debri-Development-Team/Android">📂 Repo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/AWS-SAA-C03">📂 Repo</a>
+      <a href="https://github.com/KU-Malang">📂 Repo</a>
     </td>
   </tr>
 </table>
@@ -191,12 +195,11 @@
     </td>
     <td align="center">
       <a href="https://github.com/kyra0126/Portfolio">
-        <img width="1074" height="1080" alt="AIKU_4" src="https://github.com/user-attachments/assets/97b06527-93ac-401b-b330-d3805297fe20" width="100%"/>
+        <img width="1074" height="1080" alt="AIKU_4" src="https://github.com/user-attachments/assets/f6e39e3c-4fc7-496a-973d-1ed67980685e" width="100%"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/kyra0126/AL-BUCKS">
-        <img width="471" height="473" alt="AIKU_4" src="https://github.com/user-attachments/assets/99443837-cf42-416f-a056-7779992f133c" width="100%"/>
+      <a href="https://github.com/kyra0126/AL-BUCKS"><img width="471" height="473" alt="AIKU_4" src="https://github.com/user-attachments/assets/53ddbcf4-ef94-4789-825c-0c179df07d40" width="100%"/>
       </a>
     </td>
   </tr>
@@ -221,6 +224,7 @@
        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
        <img src="https://img.shields.io/badge/Docsify-4CAF50?style=flat&logo=markdown&logoColor=white">
        <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white">
+         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
       </div>
     </td>
     <td align="center">
@@ -251,7 +255,7 @@
 
 ---
 
-## 🗓️ Studying
+## 🗓️ Studying <a id="studying"></a>
 
 Built a personal knowledge base by writing study notes in Markdown and hosting them with GitHub Pages, enabling version control and accessible online documentation
 
@@ -299,7 +303,7 @@ Built a personal knowledge base by writing study notes in Markdown and hosting t
 </table>
 
 
-## 🛠 Technical Skills
+## 🛠 Technical Skills <a id="skills"></a>
 
 **Programming Languages**  
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
@@ -345,10 +349,7 @@ Built a personal knowledge base by writing study notes in Markdown and hosting t
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white">
 
+---
 ## 🛠 Language
 
 
----
-
-## 🏆 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/YOUR_BOJ_ID/)

@@ -61,10 +61,9 @@
       <b>Software Developer</b><br/><br/>
       <sub><i>Real-time bus license plate recognition and audio alerts, enabling independent use by visually impaired riders.</i></sub><br/><br/>
       <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
-        <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
-        <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white">
-        <img src="https://img.shields.io/badge/HCI%20Principles-FF6F00?style=flat&logo=google&logoColor=white">
+       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+       <img src="https://img.shields.io/badge/Tesseract-4285F4?style=flat&logo=tesseract&logoColor=white">  
       </div>
     </td>
 
@@ -73,9 +72,7 @@
       <b>Software Developer</b><br/><br/>
       <sub><i>Java-based course registration program, improved over three iterations based on client feedback.</i></sub><br/><br/>
       <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/Swing-4A90E2?style=flat&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
       </div>
     </td>
   </tr>

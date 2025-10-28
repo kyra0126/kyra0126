@@ -209,7 +209,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/kyra0126/HarryPotter">
-        <img src="https://github.com/user-attachments/assets/dbf8175b-242e-4012-a1eb-92c40b40ccb9" width="100%"/>ㅇㅇ
+        <img src="https://github.com/user-attachments/assets/dbf8175b-242e-4012-a1eb-92c40b40ccb9" width="100%"/>
       </a>
     </td>
     <td align="center">

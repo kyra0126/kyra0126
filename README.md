@@ -37,7 +37,7 @@
   <tr>
     <td align="center" width="33%"><b>AiKU (Capstone Project)</b></td>
     <td align="center" width="33%"><b>Voice-based Bus Information System for the Visually Impaired</b></td>
-    <td align="center" width="33%"><b>Class Registration Program Development</b></td>
+    <td align="center" width="33%"><b>Class Registration System</b></td>
   </tr>
 
   <!-- Row 2: Project Images -->
@@ -99,7 +99,7 @@
       <a href="https://github.com/username/unity-gesture-board">📂 Repo</a> • <a href="#">🎥 Video</a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/AWS-SAA-C03">📂 Repo</a>
+      <a href="https://github.com/kyra0126/Course-Registration-System">📂 Repo</a>
     </td>
   </tr>
 </table>

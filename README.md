@@ -111,7 +111,7 @@
   <!-- Row 2: Project Images -->
   <tr>
     <td align="center">
-      <a href="https://github.com/AiKU-Dev">
+      <a href="https://github.com/kyra0126/CAD">
         <img src="https://github.com/user-attachments/assets/a9e40bd6-c424-415d-be51-f188e7add0fc" width="100%"/>
       </a>
     </td>
@@ -129,7 +129,7 @@
   
   <tr>
     <td align="center">
-      <sub><i>Used AutoCAD to design from 2D drawings to 3D building models</i></sub><br/><br/>
+      <sub><i>Used AutoCAD, SketchUp, Revit and NX to design from 2D drawings to 3D building models</i></sub><br/><br/>
       <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
         <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autocad&logoColor=white">
       </div>
@@ -158,7 +158,7 @@
 <!-- Row 4: Repo Links -->
   <tr>
     <td align="center">
-      <a href="https://github.com/KU-AiKU">📂 Ver.1</a> • <a href="https://github.com/AiKU-Dev/Android">📂 Ver.2</a>
+      <a href="https://github.com/kyra0126/CAD">📂 Repo</a>
     </td>
     <td align="center">
       <a href="https://canary-lunch-ad0.notion.site/Team-Debri-8e136b78ee4f40bfb6d3a35ebab42f49">📂 Launching Page</a> • <a href="https://github.com/Debri-Development-Team/Android">📂 Repo</a>

@@ -1,8 +1,9 @@
 <h1 align="center">Kyra Hwang</h1>
 <p align="center">
   <b>Frontend Developer</b><br>
-  <b>Automotive & Mobility Software Developer</b><br>
-  Turning ideas into impactful digital experiences Designing with purpose, building with passion
+  <b>Automotive & Mobility Software Developer</b><br><br>
+  Turning ideas into impactful digital experiences<br>
+  Designing with purpose, building with passion
 </p>
 
 <p align="center">

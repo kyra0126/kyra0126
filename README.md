@@ -48,12 +48,12 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/unity-gesture-board">
+      <a href="https://github.com/kyra0126/Voice-based-Bus-Information-System-">
         <img src="https://github.com/user-attachments/assets/8516a2fa-7ecf-4e1c-9140-738f7ab5dac5" width="100%" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/AWS-SAA-C03">
+      <a href="https://github.com/kyra0126/Course-Registration-System">
         <img src="https://github.com/user-attachments/assets/c866eab5-d57a-405d-bc52-319744151885" width="100%"/>
       </a>
     </td>
@@ -96,7 +96,7 @@
       <a href="https://github.com/KU-AiKU">📂 Ver.1</a> • <a href="https://github.com/AiKU-Dev/Android">📂 Ver.2</a>
     </td>
     <td align="center">
-      <a href="https://github.com/username/unity-gesture-board">📂 Repo</a> • <a href="#">🎥 Video</a>
+      <a href="https://github.com/kyra0126/Voice-based-Bus-Information-System-">📂 Repo</a>
     </td>
     <td align="center">
       <a href="https://github.com/kyra0126/Course-Registration-System">📂 Repo</a>

@@ -16,7 +16,7 @@
 ---
 ## 🧭 Core Skills  
 <p align="center">
-  <a href="https://www.figma.com/files/team/1369669565068498064/project/231388218/Team-project?fuid=1354816801466683919" target="_blank">
+  <a href="https://github.com/kyra0126/UXUI-Design" target="_blank">
     <img src="https://img.shields.io/badge/🎨%20UX%2FUI%20Design-Figma-blueviolet?style=for-the-badge&logo=figma" alt="UX/UI Design">
   </a>
   &nbsp;&nbsp;

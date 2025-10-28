@@ -354,5 +354,8 @@ Built a personal knowledge base by writing study notes in Markdown and hosting t
 
 ---
 ## 🛠 Language
-
+<p>
+  <img src="https://img.shields.io/badge/English-0078D4?style=flat&logo=readme&logoColor=white">
+  <img src="https://img.shields.io/badge/Korean-003478?style=flat&logo=googletranslate&logoColor=white">
+</p>
 

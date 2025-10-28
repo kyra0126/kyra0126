@@ -132,6 +132,9 @@
       <sub><i>Used AutoCAD, SketchUp, Revit and NX to design from 2D drawings to 3D building models</i></sub><br/><br/>
       <div style="border:1px solid #e1e4e8;border-radius:8px;padding:8px 10px;width:320px;display:inline-block;">
         <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autocad&logoColor=white">
+        <img src="https://img.shields.io/badge/Siemens%20NX-0078D7?style=flat&logo=siemens&logoColor=white">
+        <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white">
+        <img src="https://img.shields.io/badge/Revit-0076C8?style=flat&logo=autodesk&logoColor=white">
       </div>
     </td>
     <td align="center">

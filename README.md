@@ -10,7 +10,23 @@
   <a href="#projects">Projects</a> • 
   <a href="#studying">Studying</a> • 
   <a href="#skills">Skills</a> • 
+  <a href="#lang">Language</a>
 </p>
+
+---
+## 🧭 Core Skills  
+<p align="center">
+  <a href="https://www.figma.com/files/team/1354816805352563103/project/218594453/UXUI-Design?fuid=1354816801466683919" target="_blank">
+    <img src="https://img.shields.io/badge/🎨%20UX%2FUI%20Design-Figma-blueviolet?style=for-the-badge&logo=figma" alt="UX/UI Design">
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/💻%20Frontend-Android%20%7C%20React%20%7C%20TypeScript-lightblue?style=for-the-badge&logo=react" alt="Frontend Development">
+  &nbsp;&nbsp;
+  <a href="https://github.com/kyra0126/CAD" target="_blank">
+    <img src="https://img.shields.io/badge/🛠️%20CAD%20%26%203D%20Modeling-AutoCAD%20%7C%20NX%20CAD-green?style=for-the-badge&logo=autodesk" alt="CAD and 3D Modeling">
+  </a>
+</p>
+
 
 ---
 
@@ -372,7 +388,7 @@ Built a personal knowledge base by writing study notes in Markdown and hosting t
 
 
 ---
-## 🛠 Language
+## 🛠 Language <a id="lang"></a>
 <p>
   <img src="https://img.shields.io/badge/English-0078D4?style=flat&logo=readme&logoColor=white">
   <img src="https://img.shields.io/badge/Korean-003478?style=flat&logo=googletranslate&logoColor=white">

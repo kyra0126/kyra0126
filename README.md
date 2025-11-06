@@ -27,6 +27,8 @@
   </a>
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpttyakfn03)](https://solved.ac/tpttyakfn03)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tpttyakfn03&theme=warm)
 
 ---
 

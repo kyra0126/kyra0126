@@ -27,8 +27,12 @@
   </a>
 </p>
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tpttyakfn03)](https://solved.ac/tpttyakfn03)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tpttyakfn03&theme=warm)
+<p align="center">
+  <a href="https://solved.ac/tpttyakfn03">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=tpttyakfn03&v=2" alt="Solved.ac Profile"/>
+  </a>
+  <img src="https://mazandi.herokuapp.com/api?handle=tpttyakfn03&theme=warm&v=2" alt="mazandi profile"/>
+</p>
 
 ---
 

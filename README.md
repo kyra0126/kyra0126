@@ -1,4 +1,4 @@
-<h1 align="center">Kyra Hwang</h1>
+  <h1 align="center">Yoonseon Hwang</h1>
 <p align="center">
   <b>Frontend Developer</b><br>
   <b>Automotive & Mobility Software Developer</b><br><br>
